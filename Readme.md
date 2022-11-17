@@ -9,3 +9,7 @@ The secondary aim of this refactoring has been to improve on the existing code i
 The existing code has been improved by including semantic elements instead of the existing elements to better relate the purpose of each section of the code.
 
 It has also been improved by consolidating some attributes in the stylesheet to improve its overall structure. 
+
+the CSS selctors have been consolidated so that the code is less bloated with attributes that are identical to other CSS selectors
+
+The link on the section - Search engine optimization has also been fixed so that it leads to the section of text in the body of the webpage
